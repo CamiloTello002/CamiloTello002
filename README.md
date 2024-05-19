@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Camilo 👋
 
 <!--
 **CamiloTello002/CamiloTello002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am an electronics engineer from Colombia with experience in backend development. I am always looking forward to dive into challenges that will strengthen my web development abilities.
+
+You can also visit my <a href="https://www.linkedin.com/in/camilo-tello-701778253/" target="_blank">LinkedIn profile</a>
